@@ -1,6 +1,6 @@
 # Sistema de Controle Financeiro Pessoal
 
-Projeto acadêmico de modelagem e implementação de um banco de dados relacional para um **Sistema de Controle Financeiro Pessoal**, desenvolvido como atividade da disciplina de Banco de Dados.
+Projeto acadêmico de modelagem e implementação de um banco de dados relacional para um **Sistema de Controle Financeiro Pessoal**, desenvolvido como atividade da disciplina de Prática Extensionista III.
 
 O sistema permite que usuários registrem suas **receitas** e **despesas**, organizem-nas por **categorias**, vinculem-nas a **contas** (carteira, conta corrente, cartão de crédito etc.) e gerem **relatórios mensais** para acompanhamento financeiro.
 
