@@ -75,7 +75,8 @@ O banco é composto pelas seguintes entidades principais:
 - **Conta** — Contas financeiras do usuário (carteira, banco, cartão)
 - **Categoria** — Classificação das transações (alimentação, transporte, salário etc.)
 - **Transacao** — Receitas e despesas registradas
-- **Relatorio** — Relatórios consolidados por período
+- **Orcamento** — Limites mensais de gastos por categoria
+
 
 ---
 
